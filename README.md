@@ -54,9 +54,6 @@ After you are done, the result is calculated and displayed. It includes WPM(word
 
 <br>
 
-## ➡️ Link to Portfolio 
-### https://gaganpreetkaurkalsi.netlify.app/
-
 <br>
 
 ## ➡️ Demo Video
